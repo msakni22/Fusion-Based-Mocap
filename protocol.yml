@@ -1,0 +1,13 @@
+---
+lbd:
+ couple: [0,1]
+ length: 343 
+labd:
+ couple: [1,2]
+ length: 250
+lbg:
+ couple: [3,4]
+ length: 343
+labg:
+ couple: [4,5]
+ length: 250
